@@ -1,8 +1,7 @@
 # ChatGPT VA
 
 This is a project based upon creating a Virtual Assistant that connects to a reverse engineered EdgeGPT API,  
-who actively listens for a user's prompt using speech recognition and Amazon's Polly, turning it into a spoken response  
-the same way a user would receive text using ChatGPT. 
+who actively listens for a user's prompt using speech recognition and Amazon's Polly, turning it into a spoken response the same way a user would receive text using ChatGPT. 
 
 ## Installation
 
