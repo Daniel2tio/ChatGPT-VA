@@ -30,6 +30,12 @@ Upon completion of the configuration step and assuming all dependencies are inst
 
 The program will continue and listen for a prompt the user may give the same way it would type into ChatGPT.  
 
+## To be done
+
+- Optimize the code, as currently it is extremely slow
+- Create exit prompts
+- Create a "play music" prompt
+- Perhaps create a UI
 
 
 
