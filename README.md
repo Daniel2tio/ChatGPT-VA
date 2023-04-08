@@ -6,11 +6,9 @@
 The program was written using Python 3.9.
 To install the dependencies, run the following command:
 
-::
-
-$ pip install -r requirements.txt
-
-::
+'''
+ pip install -r requirements.txt
+'''
 
 Setting up AWS account to use Polly after installing dependencies:
 0 - Ensure that boto3 and awscli are properly installed
